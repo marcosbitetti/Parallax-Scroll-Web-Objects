@@ -1,0 +1,16 @@
+pkg
+doc
+Thumbs.db
+Desktop.ini
+.project
+.tmp*
+*.log
+*.pid
+*~
+*.swp
+.#*
+tmp
+.htaccess
+Thumbs
+.config
+config
