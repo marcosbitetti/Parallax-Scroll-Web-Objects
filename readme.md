@@ -2,10 +2,10 @@
 Efeito de perspectiva com plano de fundo de websites
 
 ##Exemplo Online
-<a href="http://ubuntuone.com/3wpOhMR4jbwbTld1Fa7yXw">Exemplo online</a> hospedado no Ubuntu One.
+<a href="http://ubuntuone.com/7RzhrtqOTunc6AoxQiknqQ" target="_blank">Exemplo online</a> hospedado no Ubuntu One.
 
 ##Instalação e modo de usar
-Ver manual na pasta doc
+Ver manual.html
 
 ##Compatibilidade
 Sites e Blogs (Blogspot, Wordpress).
